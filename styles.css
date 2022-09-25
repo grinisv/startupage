@@ -1,0 +1,48 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	background: url(broccolli-unsplash.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+ 	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1, button {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+	color: white;
+	font-size: 5rem;
+	margin:  15px 0px 200px 0px;
+}
+
+hr {
+    margin: 20px auto;
+    color: white;
+    border: 3px solid white;
+    max-width: 265px;
+    opacity: 1;  
+}
+
+.btn-xl {
+	padding: 1rem 5rem;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 2rem;
+	margin:  600px 0px 15px 0px;
+	transition: all 1s ease;
+}
+
+.btn-xl:hover {
+	border-width: 10px;
+}
+
+.container {
+	width: fit-content;
+}
+
+/*.buffer {
+	height: 25rem;
+}*/
+
